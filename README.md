@@ -7,7 +7,7 @@ Drag and Drop 기능은 사용자들에게 직관적인 UI를 제공할 수 있�
 HTML5 DnD는 DOM event model과 마우스 이벤트에서 상속된 drag event를 사용한다.
 
 ### 실행 예제
-https://codesandbox.io/s/7zyorq83y1
+https://codesandbox.io/s/lp1n4oqyzl
 
 ### Reference
 - HTML5 DnD 내부 동작 상세 소개
